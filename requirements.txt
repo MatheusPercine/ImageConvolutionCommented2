@@ -1,0 +1,4 @@
+numba==0.59.1
+numpy==1.26.4
+opencv-python==4.10.0.82
+pandas~=2.2.2
